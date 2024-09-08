@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contactos on Mi portafolio LEDEZMA</title>
+    <link>http://localhost:1313/contactos/</link>
+    <description>Recent content in Contactos on Mi portafolio LEDEZMA</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2024 11:14:46 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/contactos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contactofacebook</title>
+      <link>http://localhost:1313/contactos/contactofacebook/</link>
+      <pubDate>Sun, 08 Sep 2024 11:14:46 -0400</pubDate>
+      <guid>http://localhost:1313/contactos/contactofacebook/</guid>
+      <description>&lt;p&gt;Mi contacto de facebook es el sigujientes&#xA;&lt;a href=&#34;https://www.facebook.com/&#34;&gt;www.facebook.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;div class=&#34;splitbox&#34;&gt;&lt;div class=&#34;left&#34;&gt;&#xA;&#xA;This is column 1.&#xA;This is column 1.&#xA;This is column 1.&#xA;This is column 1.&#xA;This is column 1.&#xA;&lt;/div&gt;&lt;div class=&#34;right&#34;&gt;&#xA;&#xA;This is column 2.&#xA;This is column 2.&#xA;This is column 2.&#xA;This is column 2.&#xA;This is column 2.&#xA;&lt;/div&gt;&lt;div style=&#34;clear:both&#34;&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
